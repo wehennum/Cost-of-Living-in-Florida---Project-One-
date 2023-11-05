@@ -1,1 +1,17 @@
-This  comprises information related to median income levels in Florida across six consecutive years, spanning from 2017 to 2022. These data points offer valuable insights into the income trends within this specific time period. It indicates that median income started at $62,600 in 2017, experienced fluctuations over the following years, with a peak of $66,480 in 2019, before gradually decreasing to $65,110 in 2020 (possibly due to COVID) and $64,410 in 2021. We see there was a slight increase in median income to $65,370 in 2022.The table presents population data for Florida over a six-year period. The population numbers are in Thousand of People. The summary statistics  offer some insights into the central tendency and variability of the population data. The mean population over this period is approximately 21,564.43, indicating the average population, while the median, at about 21,540.83, represents the middle value in the dataset. The variance, measuring the spread of the data, is approximately 163,179, and the standard deviation, which quantifies the data's dispersion, is roughly 403.95. These statistics provide a snapshot of Florida's population trends, aiding in the analysis of changes and patterns over the specified time frame.Income Year with the Biggest Change:Year              2019.0Median Income    66480.0Income Change     3320.0Name: 2, dtype: float64PopulationYear                  2022.000FLPOP                22244.823Population Change      416.754
+This  comprises information related to median income levels in Florida across six consecutive years, spanning from 2017 to 2022. These data points offer valuable insights into the income trends within this specific time period. It indicates that median income started at $62,600 in 2017, experienced fluctuations over the following years, with a peak of $66,480 in 2019, before gradually decreasing to $65,110 in 2020 (possibly due to COVID) and $64,410 in 2021. We see there was a slight increase in median income to $65,370 in 2022.
+
+The table presents population data for Florida over a six-year period. The population numbers are in Thousand of People. The summary statistics  offer some insights into the central tendency and variability of the population data. The mean population over this period is approximately 21,564.43, indicating the average population, while the median, at about 21,540.83, represents the middle value in the dataset. The variance, measuring the spread of the data, is approximately 163,179, and the standard deviation, which quantifies the data's dispersion, is roughly 403.95. These statistics provide a snapshot of Florida's population trends, aiding in the analysis of changes and patterns over the specified time frame.
+
+
+Income 
+Year with the Biggest Change:
+Year              2019.0
+Median Income    66480.0
+Income Change     3320.0
+Name: 2, dtype: float64
+
+Population
+Year                  2022.000
+FLPOP                22244.823
+Population Change      416.754
+
